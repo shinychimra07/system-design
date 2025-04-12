@@ -5,24 +5,24 @@ Welcome to the **System Design Collection**, a curated list of design problems c
 ## 📚 Table of Contents
 
 ### ✅ Core System Designs
-- [Design a Blogging Platform](#)
-- [Design Online/Offline Indicator](#)
-- [Design Airline Check-in System](#)
-- [Design SQL-backed Key-Value Store](#)
-- [Design Slack's Realtime Communication](#)
-- [Design a Load Balancer](#)
-- [Design Synchronized Queue Consumers](#)
-- [Design an Image Service](#)
-- [Design a Hashtag Service](#)
-- [Design OnePic (Photo Sharing App)](#)
-- [Design Photo Tagging](#)
-- [Design User Affinity](#)
-- [Design Newly Unread Message Indicator](#)
-- [Design a Distributed Cache](#)
-- [Design a Word Dictionary](#)
-- [Design a Superfast Key-Value Store](#)
-- [Design S3 (Object Storage)](#)
-- [Design a Faster Superfast Key-Value Store](#)
+- [Design a Blogging Platform](#) 4/14
+- [Design Online/Offline Indicator](#) 4/16
+- [Design Airline Check-in System](#) 4/18
+- [Design SQL-backed Key-Value Store](#) 4/21
+- [Design Slack's Realtime Communication](#) 4/23
+- [Design a Load Balancer](#) 4/25
+- [Design Synchronized Queue Consumers](#) 4/28
+- [Design an Image Service](#) 4/30
+- [Design a Hashtag Service](#) 5/2
+- [Design OnePic (Photo Sharing App)](#) 5/5
+- [Design Photo Tagging](#) 5/7
+- [Design User Affinity](#) 5/9
+- [Design Newly Unread Message Indicator](#) 5/12
+- [Design a Distributed Cache](#) 5/14
+- [Design a Word Dictionary](#) 5/16
+- [Design a Superfast Key-Value Store](#) 5/19
+- [Design S3 (Object Storage)](#) 5/21
+- [Design a auction system](#) 5/23
 
 ### 📺 Media & Communication
 - [Design a Video Processing Pipeline for a Streaming Service](#)
